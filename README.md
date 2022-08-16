@@ -28,3 +28,12 @@ You can click the Preview link to take a look at your changes.
    <img align="left" alt="Bheem Mastkar | Facebook" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 <!-- </a>
+
+<a href="https://www.instagram.com/_real_bheem/" target="_blank">
+  <img align="left" alt="Niloy Sikdar | Play Store" src="https://img.shields.io/badge/Google_Play-414141?style=for-the-badge&logo=google-play&logoColor=white"/>
+</a>
+<a href="https://niloysikdar.medium.com/" target="_blank">
+  <img align="left" alt="Niloy Sikdar | Medium" src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" />
+  </a>
+  -->
+  
