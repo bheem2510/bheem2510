@@ -109,18 +109,7 @@ You can click the Preview link to take a look at your changes.
 </p>
 
 ---
-  [![Bheem Mastkar's github stats](https://github-readme-stats.vercel.app/api?username=bheem2510)](https://github.com/bheem2510)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bheem2510&layout=compact)](https://github.com/bheem2510)
-<!-- Please don't remove this: Grab your social icons from https://github.com/carlsednaoui/gitsocial -->
-
-<p align="center">
-  <img alt="GitHub User's view" src="https://komarev.com/ghpvc/?username=bheem2510">&nbsp;&nbsp;&nbsp;&nbsp;
-  <img alt="GitHub User's stars" src="https://img.shields.io/github/stars/bheem2510?color=yellow&label=%20Stars%20">
-</p>
-
-
----
+  ---
 
 <p align = "center">
   <I><B>Let's connect, explore and enjoy! Open to anything under the sky.</B></I>
@@ -134,3 +123,4 @@ You can click the Preview link to take a look at your changes.
 </p>
 
 ---
+
