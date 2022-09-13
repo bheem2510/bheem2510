@@ -1,3 +1,8 @@
+<p align="center">
+  <img alt="GitHub User's view" src="https://komarev.com/ghpvc/?username=bheem2510">&nbsp;&nbsp;&nbsp;&nbsp;
+  <img alt="GitHub User's stars" src="https://img.shields.io/github/stars/bheem2510?color=yellow&label=%20Stars%20">
+</p>
+
 ### Hi, Bheem here 👋 
 - 👨🏻‍🎓 Currently persuing my B.Tech in CSE
 - 🔭 I’m currently working on Projects
