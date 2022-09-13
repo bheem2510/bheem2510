@@ -7,6 +7,7 @@
 - 🤺 Motto:  " Objective Should be on main Priority." 
 - 📫 How to reach me: <a href="https://www.linkedin.com/in/bheem-mastkar-4510371ba">Linkedin</a>
 
+
 <!---
 bheem2510/bheem2510 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
@@ -106,3 +107,8 @@ You can click the Preview link to take a look at your changes.
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bheem2510&layout=compact)](https://github.com/bheem2510)
 <!-- Please don't remove this: Grab your social icons from https://github.com/carlsednaoui/gitsocial -->
+
+<p align="center">
+  <img alt="GitHub User's view" src="https://komarev.com/ghpvc/?username=bheem2510">&nbsp;&nbsp;&nbsp;&nbsp;
+  <img alt="GitHub User's stars" src="https://img.shields.io/github/stars/bheem2510?color=yellow&label=%20Stars%20">
+</p>
