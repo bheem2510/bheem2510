@@ -118,7 +118,7 @@ You can click the Preview link to take a look at your changes.
 </p>
 
 ---
-  ---
+ 
 
 <p align = "center">
   <I><B>Let's connect, explore and enjoy! Open to anything under the sky.</B></I>
