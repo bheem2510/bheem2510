@@ -103,7 +103,7 @@ You can click the Preview link to take a look at your changes.
 <br/><br/>
  
  ---
-<p align = "center">
+<p align = "">
 <I>“There are some people who live in a dream world, and there are some who face reality; and then there are those who turn one into the other.”</I> 
   <p align = "center"><I> - It starts with a step 😊 </I><p>
 </p>
@@ -118,3 +118,19 @@ You can click the Preview link to take a look at your changes.
   <img alt="GitHub User's view" src="https://komarev.com/ghpvc/?username=bheem2510">&nbsp;&nbsp;&nbsp;&nbsp;
   <img alt="GitHub User's stars" src="https://img.shields.io/github/stars/bheem2510?color=yellow&label=%20Stars%20">
 </p>
+
+
+---
+
+<p align = "center">
+  <I><B>Let's connect, explore and enjoy! Open to anything under the sky.</B></I>
+</p>
+
+<br>
+
+<p align = "center">
+<img align="center" height="160" width="400" src="https://github-readme-stats.vercel.app/api?username=bheem2510&theme=nightowl&show_icons=true" />
+<img align="center" height="160" width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bheem2510&layout=compact" />
+</p>
+
+---
