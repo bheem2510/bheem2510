@@ -60,9 +60,6 @@ You can click the Preview link to take a look at your changes.
 [![alt text][6.1]][6]
 
 
-<!-- links to social media icons -->
-<!-- no need to change these -->
-
 <!-- icons with padding -->
 
 [1.1]: http://i.imgur.com/tXSoThF.png (twitter icon with padding)
