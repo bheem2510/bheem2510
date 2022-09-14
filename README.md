@@ -133,10 +133,6 @@ You can click the Preview link to take a look at your changes.
 
 ---
 
-<div align="center" >
-<img width="40%" src="https://github-readme-stats.vercel.app/api?username=bheem2510-25&show_icons=true"> <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bheem2510-25&layout=compact">
-</div> 
-
 
 <div align="center">
  <img src="https://github-readme-streak-stats.herokuapp.com/?user=bheem2510-25&)"><img src="https://activity-graph.herokuapp.com/graph?username=bheem2510-25&bg_color=FFFFFF&color=000000&line=000000&point=00FF00"></div>
