@@ -117,6 +117,6 @@
 <!-- - [Beginner's guide to Hacktoberfest 2021 ](https://www.youtube.com/watch?v=xBPFzXa9Fio) -->
 
 <!-- YOUTUBE:END -->
-➡️ [more videos...](https://www.youtube.com/c/)
+➡️ [more videos...](https://www.youtube.com/)
 </td>
 
