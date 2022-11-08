@@ -101,3 +101,22 @@
 [Medium]: https://medium.com/
 [Facebook]: https://www.facebook.com/bheem.mastkar
 <h3 align="center">Show some &nbsp;❤️&nbsp; by starring some of the repositories!</h3>
+
+<table><tr><td valign="top" width="50%">
+
+### My Latest Blog Posts 🌱
+<!-- BLOG-POST-LIST:START -->
+<!-- - [Beginner's guide to Hacktoberfest 2021](https://ayushirawat.com/beginners-guide-to-hacktoberfest-2021) -->
+<!-- BLOG-POST-LIST:END -->
+➡️ [more blog posts...](https://hashnode.com/@25120/)
+</td>
+<td valign="top" width="50%">
+
+### My Latest YouTube Videos 🌱
+<!-- YOUTUBE:START -->
+<!-- - [Beginner's guide to Hacktoberfest 2021 ](https://www.youtube.com/watch?v=xBPFzXa9Fio) -->
+
+<!-- YOUTUBE:END -->
+➡️ [more videos...](https://www.youtube.com/c/)
+</td>
+
