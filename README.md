@@ -108,7 +108,7 @@
 <!-- BLOG-POST-LIST:START -->
 <!-- - [Beginner's guide to Hacktoberfest 2021](https://ayushirawat.com/beginners-guide-to-hacktoberfest-2021) -->
 <!-- BLOG-POST-LIST:END -->
-➡️ [more blog posts...](https://hashnode.com/@25120/)
+➡️ [more blog posts...](https://hashnode.com/@bheem2510/)
 </td>
 <td valign="top" width="50%">
 
