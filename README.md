@@ -107,7 +107,7 @@
 
 ### My Latest Blog Posts 🌱
 <!-- BLOG-POST-LIST:START -->
-<!-- - [Beginner's guide to Hacktoberfest 2021](https://ayushirawat.com/beginners-guide-to-hacktoberfest-2021) -->
+- [What is an API ? API for beginners](https://bheem2510.hashnode.dev/what-is-an-api-api-101)
 <!-- BLOG-POST-LIST:END -->
 ➡️ [more blog posts...](https://hashnode.com/@bheem2510/)
 </td>
