@@ -90,6 +90,29 @@ I made this project just for fun 😊, it allows you to create nice and simple G
 <br/>
 <br/><br/>
  
+ ### 🛠 &nbsp;Learning 📝 Tools and Platforms
+
+<p  align="center">
+<img  alt="iNeuron"  src="https://img.shields.io/badge/-iNeuron-FE7A16?style=for-the-badge&logo=iNeuron&logoColor=white"/>
+<img  alt="LearnCodeOnline"  src="https://img.shields.io/badge/LearnCodeOnline-A435F0?style=for-the-badge&logo=LearnCodeOnline&logoColor=white"/>
+<br/>
+  <br/>
+
+<img  alt="FreeCodeCamp"  src="https://img.shields.io/badge/Freecodecamp-%23123.svg?&style=for-the-badge&logo=freecodecamp&logoColor=green"/>
+<img  alt="HackerRank"  src="https://img.shields.io/badge/-Hacker rank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white"/>
+<img  alt="Quora"  src="https://img.shields.io/badge/Quora-%23B92B27.svg?style=for-the-badge&logo=Quora&logoColor=white"/>
+<img  alt="Stack Overflow"  src="https://img.shields.io/badge/-Stack overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white"/>
+<img  alt="Udacity"  src="https://img.shields.io/badge/Udacity-grey?style=for-the-badge&logo=udacity&logoColor=15B8E6"/>
+<img  alt="Coursera"  src="https://img.shields.io/badge/Coursera-%230056D2.svg?style=for-the-badge&logo=Coursera&logoColor=white"/>
+  <br>
+  <br>
+<img  alt="Codepen"  src="https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white"/>
+<img  alt="Codewars"  src="https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=codewars&logoColor=grey"/>
+<img  alt="Udemy"  src="https://img.shields.io/badge/Udemy-A435F0?style=for-the-badge&logo=Udemy&logoColor=white"/>
+</p>
+
+<a href="http://www.github.com/bheem2510"><img src="https://activity-graph.herokuapp.com/graph?username=bheem2510&bg_color=1c1917&color=10b981&line=a855f7&point=10b981&area_color=1c1917&area=true&hide_border=true&custom_title=bheem%20Mastkar%20Contribution%20Graph" alt="GitHub Commits Graph" /></a>
+
  ---
 <p align = "">
 <I>“There are some people who live in a dream world, and there are some who face reality; and then there are those who turn one into the other.”</I> 
