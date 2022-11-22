@@ -19,9 +19,12 @@ I made this project just for fun 😊, it allows you to create nice and simple G
 
 ### Hi, Bheem here 👋 
 - 👨🏻‍🎓 Currently persuing my B.Tech in CSE
-- 🔭 I’m currently working on Projects
+- 🔭 I’m currently working on something refreshing.
 - 🌱 I’m currently learning Full Stack Development
 - 🥅 2022 Goals: Contribute more to Open Source projects
+- 💬 Ask me about anything 😅
+- 😄 Pronouns: He/Him/His.
+- ⚡ Fun fact: I ❤️ 👨‍💻
 - 🤺 Motto:  " Objective Should be on main Priority." 
 - 📫 How to reach me: <a href="https://www.linkedin.com/in/bheem-mastkar-4510371ba">Linkedin</a>
 
