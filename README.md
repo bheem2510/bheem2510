@@ -3,6 +3,20 @@
   <img alt="GitHub User's stars" src="https://img.shields.io/github/stars/bheem2510?color=yellow&label=%20Stars%20">
 </p>
 
+<div style=" font-size: medium; color: #447ff7" align=center>
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Kaushan+Script&size=40&duration=3500&color=447FF7&background=FFFFFF00&center=true&vCenter=true&width=650&height=55&lines=Hello!+It's+Bheem+Mastkar+%F0%9F%91%8B%F0%9F%8F%BB;I+am+a+Web+Developer+%F0%9F%A7%91%F0%9F%8F%BB%E2%80%8D%F0%9F%92%BB;I+am+from+India+%F0%9F%87%AE%F0%9F%87%B3;I+have+expertise+%F0%9F%93%88;In+building+frontend+infrastructures+%E2%9A%99%EF%B8%8F" alt="Brijesh Vadalia" width="650" height="55">
+
+<p  align="center">
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">             
+<br>
+</div>
+This is the place where I open-source stuff 😊 and break things. I like experimenting with new technologies 💻 , building small cool stuff projects, and occassionally joining hackathons✨.
+
+#### I am a helping hand 🤝 to anyone in IT related support 🎗️.
+I made this project just for fun 😊, it allows you to create nice and simple GitHub Readme files that you can copy or paste and use in your profile 😀.
+<p align="center"> <img src="https://octodex.github.com/images/daftpunktocat-thomas.gif" height="160px" width="160px"> <img src="https://octodex.github.com/images/daftpunktocat-guy.gif" height="160px" width="160px"> </p>
+
 ### Hi, Bheem here 👋 
 - 👨🏻‍🎓 Currently persuing my B.Tech in CSE
 - 🔭 I’m currently working on Projects
