@@ -105,14 +105,22 @@ I made this project just for fun 😊, it allows you to create nice and simple G
 
 <br>
 
-<p align = "center">
-<img align="center" height="160" width="400" src="https://github-readme-stats.vercel.app/api?username=bheem2510&theme=nightowl&show_icons=true" />
-<img align="center" height="160" width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bheem2510&layout=compact" />
+### ⚙️ &nbsp;GitHub Analytics
+
+<p align="center">
+  <a href="https://github-readme-stats.vercel.app">
+        <img width="49%" alt="Stats" src="https://github-readme-stats.vercel.app/api?&count_private=true&include_all_commits=true&username=bheem2510&theme=onedark&custom_title=GitHub+Stats&hide_border=true"/>
+    </a>
+    <a href="https://github-readme-streak-stats.herokuapp.com">
+        <img width="49%" alt="Streak Stats" src="https://github-readme-streak-stats.herokuapp.com/?user=bheem2510&theme=onedark&hide_border=true"/>
+    </a>
+  <p align="center" >  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=bheem2510&layout=compact&langs_count=8&theme=algolia"/>
+</p>
 </p>
 
 
 ## Snake 🐍 Eating by contribution Graph 
-![Snake GIF](https://github.com/brijeshvadalia/brijeshvadalia/blob/output/github-contribution-grid-snake.svg)
+![Snake GIF](https://github.com/bheem2510/blob/output/github-contribution-grid-snake.svg)
 ---
 
 [youtube]: https://youtube.com/
