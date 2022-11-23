@@ -60,9 +60,6 @@ I made this project just for fun 😊, it allows you to create nice and simple G
 <p  align="center">
 <img  alt="Edge"  src="https://img.shields.io/badge/Edge-0078D7?style=for-the-badge&logo=Microsoft-edge&logoColor=white"/>
 <img  alt="Chrome"  src="https://img.shields.io/badge/Google%20Chrome-4285F4?style=for-the-badge&logo=GoogleChrome&logoColor=white"/>
-</p>
-
-<p  align="center">
 <img  alt="Visual Studio Code"  src="https://img.shields.io/badge/Visual Studio Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
 <img  alt="Sublime Text"  src="https://img.shields.io/badge/sublime_text-%23575757.svg?style=for-the-badge&logo=sublime-text&logoColor=important"/>
 </p>
