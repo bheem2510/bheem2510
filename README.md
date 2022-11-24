@@ -96,13 +96,13 @@ I made this project just for fun 😊, it allows you to create nice and simple G
 <p  align="center">
 <img  alt="iNeuron"  src="https://img.shields.io/badge/-iNeuron-FE7A16?style=for-the-badge&logo=iNeuron&logoColor=white"/>
 <br/>
-
+<img  alt="CodeForces"  src="https://img.shields.io/badge/CodeForces-grey?style=for-the-badge&logo=CodeForces&logoColor=15B8E6"/>
+<img  alt="Leetcode"  src="https://img.shields.io/badge/Leetcode-%230056D2.svg?style=for-the-badge&logo=Leetcode&logoColor=white"/>
 <img  alt="Codechef"  src="https://img.shields.io/badge/codechef-%23123.svg?&style=for-the-badge&logo=codechef&logoColor=green"/>
 <img  alt="HackerRank"  src="https://img.shields.io/badge/-Hacker rank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white"/>
 <img  alt="Quora"  src="https://img.shields.io/badge/Quora-%23B92B27.svg?style=for-the-badge&logo=Quora&logoColor=white"/>
 <img  alt="Stack Overflow"  src="https://img.shields.io/badge/-Stack overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white"/>
-<img  alt="CodeForces"  src="https://img.shields.io/badge/CodeForces-grey?style=for-the-badge&logo=CodeForces&logoColor=15B8E6"/>
-<img  alt="Leetcode"  src="https://img.shields.io/badge/Leetcode-%230056D2.svg?style=for-the-badge&logo=Leetcode&logoColor=white"/>
+
   <br>
   <br>
 <img  alt="Codepen"  src="https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white"/>
