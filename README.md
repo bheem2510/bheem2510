@@ -94,9 +94,9 @@ I made this project just for fun 😊, it allows you to create nice and simple G
  ### 🛠 &nbsp;Learning 📝 Tools and Platforms
 
 <p  align="center">
+<img  alt="YouTube"  src="https://img.shields.io/badge/YouTube-A435F0?style=for-the-badge&logo=YouTuabe&logoColor=Red"/>
+<img  alt="Udemy"  src="https://img.shields.io/badge/Udemy-A435F0?style=for-the-badge&logo=Udemy&logoColor=white"/>
 <img  alt="iNeuron"  src="https://img.shields.io/badge/-iNeuron-FE7A16?style=for-the-badge&logo=iNeuron&logoColor=white"/>
-<img  alt="Udemy"  src="https://img.shields.io/badge/Udemy-A435F0?style=for-the-badge&logo=Udemy&logoColor=white"/>
-<img  alt="Udemy"  src="https://img.shields.io/badge/Udemy-A435F0?style=for-the-badge&logo=Udemy&logoColor=white"/>
 <br/>
 <img  alt="CodeForces"  src="https://img.shields.io/badge/CodeForces-grey?style=for-the-badge&logo=CodeForces&logoColor=15B8E6"/>
 <img  alt="Leetcode"  src="https://img.shields.io/badge/Leetcode-%230056D2.svg?style=for-the-badge&logo=Leetcode&logoColor=white"/>
