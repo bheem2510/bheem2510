@@ -96,7 +96,6 @@ I made this project just for fun 😊, it allows you to create nice and simple G
 <p  align="center">
 <img  alt="iNeuron"  src="https://img.shields.io/badge/-iNeuron-FE7A16?style=for-the-badge&logo=iNeuron&logoColor=white"/>
 <br/>
-  <br/>
 
 <img  alt="Codechef"  src="https://img.shields.io/badge/codechef-%23123.svg?&style=for-the-badge&logo=codechef&logoColor=green"/>
 <img  alt="HackerRank"  src="https://img.shields.io/badge/-Hacker rank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white"/>
