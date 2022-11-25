@@ -104,11 +104,12 @@ I made this project just for fun 😊, it allows you to create nice and simple G
 <img  alt="Stack Overflow"  src="https://img.shields.io/badge/-Stack overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white"/>
 <img  alt="YouTube"  src="https://img.shields.io/badge/YouTube-%23B92B27?style=for-the-badge&logo=YouTuabe&logoColor=white"/>
 <br>
-<img  alt="Udemy"  src="https://img.shields.io/badge/Udemy-A435F0?style=for-the-badge&logo=Udemy&logoColor=white"/>
-<img  alt="iNeuron"  src="https://img.shields.io/badge/-iNeuron-FE7A16?style=for-the-badge&logo=iNeuron&logoColor=white"/>
- <br>
 <img  alt="Medium"  src="https://img.shields.io/badge/Medium-%23123?style=for-the-badge&logo=Medium&logoColor=white"/>
 <img  alt="Hashnode"  src="https://img.shields.io/badge/Hashnode-000000?style=for-the-badge&logo=Hashnode&logoColor=green"/>
+<br>
+<img  alt="Udemy"  src="https://img.shields.io/badge/Udemy-A435F0?style=for-the-badge&logo=Udemy&logoColor=white"/>
+<img  alt="iNeuron"  src="https://img.shields.io/badge/-iNeuron-FE7A16?style=for-the-badge&logo=iNeuron&logoColor=white"/>
+
 <!-- <img  alt="Codepen"  src="https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white"/>
 <img  alt="Codewars"  src="https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=codewars&logoColor=grey"/> -->
 </p>
