@@ -69,9 +69,7 @@ I made this project just for fun 😊, it allows you to create nice and simple G
 <img  alt="Bootstrap"  src="https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white"/>
 <img  alt="Python"  src="https://img.shields.io/badge/python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white"/>
 <img  alt="C++"  src="https://img.shields.io/badge/C++-%23777BB4.svg?style=for-the-badge&logo=C++&logoColor=white"/>
-</p>
-
-<p  align="center">
+<br>
   <img alt="PHP"  src="https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white"/>
   <img  alt="NPM"  src="https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white"/>
   <img  alt="React JS"  src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"/>
