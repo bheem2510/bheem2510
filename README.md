@@ -115,15 +115,15 @@ I made this project just for fun 😊, it allows you to create nice and simple G
 
  ---
 <p align = "">
-<h3><I>“There are some people who live in a dream world, and there are some who face reality; and then there are those who turn one into the other.”</I></h3> 
-  <p align = "center"><h4><I> - It starts with a step 😊 </I></h4><p>
+<h3><I>“There are some people who live in a dream world, and there are some who face reality; and then there are those who turn one into the other.”</I>
+  <p align = "center"><h4><I> - It starts with a step 😊 </I></h3><p>
 </p>
 
 ---
  
 
 <p align = "center">
-  <I><B>Let's connect, explore and enjoy! Open to anything under the sky.</B></I>
+  <h4><I><B>Let's connect, explore and enjoy! Open to anything under the sky.</B></I></h4>
 </p>
 
 <br>
