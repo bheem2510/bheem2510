@@ -110,7 +110,7 @@ I made this project just for fun 😊, it allows you to create nice and simple G
 <img  alt="Codewars"  src="https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=codewars&logoColor=grey"/> -->
 </p>
 
-<a href="http://www.github.com/bheem2510"><img src="https://activity-graph.herokuapp.com/graph?username=bheem2510&bg_color=1c1917&color=10b981&line=a855f7&point=10b981&area_color=1c1917&area=true&hide_border=true&custom_title=Bheem's%20Contribution%20Graph" alt="GitHub Commits Graph" /></a>
+<!-- <a href="http://www.github.com/bheem2510"><img src="https://activity-graph.herokuapp.com/graph?username=bheem2510&bg_color=1c1917&color=10b981&line=a855f7&point=10b981&area_color=1c1917&area=true&hide_border=true&custom_title=Bheem's%20Contribution%20Graph" alt="GitHub Commits Graph" /></a> -->
 
 
  ---
