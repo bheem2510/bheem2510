@@ -161,7 +161,6 @@ I made this project just for fun 😊, it allows you to create nice and simple G
 ➡️ [more blog posts...](https://hashnode.com/@bheem2510/)
 </td>
 <td valign="top" width="50%">
-
 ### My Latest YouTube Videos 🌱
 <!-- YOUTUBE:START -->
 <!-- - [Beginner's guide to Hacktoberfest 2021 ](https://www.youtube.com/watch?v=xBPFzXa9Fio) -->
