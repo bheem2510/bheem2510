@@ -52,8 +52,6 @@ I made this project just for fun 😊, it allows you to create nice and simple G
   
   ---
   
-  
-
 </br> 
   
    ### 🛠 &nbsp;Technologies and Tools
