@@ -29,7 +29,6 @@ I made this project just for fun 😊, it allows you to create nice and simple G
 - 🤺 Motto:  " Objective Should be on main Priority." 
 - 📫 How to reach me: <a href="https://www.linkedin.com/in/bheem-mastkar-4510371ba">Linkedin</a>
 
-
 ---
 ### ❤️Connect With me:
   
