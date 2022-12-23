@@ -95,7 +95,7 @@ I made this project just for fun 😊, it allows you to create nice and simple G
 <img  alt="Codechef"  src="https://img.shields.io/badge/codechef-%23123.svg?&style=for-the-badge&logo=codechef&logoColor=green"/>
 <img  alt="HackerRank"  src="https://img.shields.io/badge/-Hacker rank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white"/>
  <br>
- \<img  alt="Stack Overflow"  src="https://img.shields.io/badge/-Stack overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white"/>
+<img  alt="Stack Overflow"  src="https://img.shields.io/badge/-Stack overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white"/>
 <img  alt="Quora"  src="https://img.shields.io/badge/Quora-%23B92B27.svg?style=for-the-badge&logo=Quora&logoColor=white"/>
 <img  alt="YouTube"  src="https://img.shields.io/badge/YouTube-%23B92B27?style=for-the-badge&logo=YouTuabe&logoColor=white"/>
 <br>
@@ -105,7 +105,7 @@ I made this project just for fun 😊, it allows you to create nice and simple G
 <img  alt="Udemy"  src="https://img.shields.io/badge/Udemy-A435F0?style=for-the-badge&logo=Udemy&logoColor=white"/>
 <img  alt="InterviewBit"  src="https://img.shields.io/badge/-InterviewBit-FE7A16?style=for-the-badge&logo=InterviewBit&logoColor=white"/>
   <br>
- <img  alt="Stack Overflow"  src="https://img.shields.io/badge/-Stack overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white"/>
+<img  alt="Stack Overflow"  src="https://img.shields.io/badge/-Stack overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white"/>
 
 <!-- <img  alt="Codepen"  src="https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white"/>
 <img  alt="Codewars"  src="https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=codewars&logoColor=grey"/> -->
