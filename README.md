@@ -95,7 +95,7 @@ I made this project just for fun 😊, it allows you to create nice and simple G
 <img  alt="Codechef"  src="https://img.shields.io/badge/codechef-%23123.svg?&style=for-the-badge&logo=codechef&logoColor=green"/>
 <img  alt="HackerRank"  src="https://img.shields.io/badge/-Hacker rank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white"/>
  <br>
-<img  alt="Geeks For Geeks"  src="https://img.shields.io/badge/-Geeks for Geeks-2EC866?style=for-the-badge&logo=geeksforgeeks&logoColor=green"/>
+<img  alt="Geeks For Geeks"  src="https://img.shields.io/badge/-Geeks for Geeks-%23123?style=for-the-badge&logo=geeksforgeeks&logoColor=green"/>
 <img  alt="Quora"  src="https://img.shields.io/badge/Quora-%23B92B27.svg?style=for-the-badge&logo=Quora&logoColor=white"/>
 <img  alt="YouTube"  src="https://img.shields.io/badge/YouTube-%23B92B27?style=for-the-badge&logo=YouTuabe&logoColor=white"/>
 <br>
