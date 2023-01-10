@@ -123,7 +123,6 @@ I made this project just for fun 😊, it allows you to create nice and simple G
 
 ---
 
-
 <p align = "center">
   <I><B>Let's connect, explore and enjoy! Open to anything under the sky.</B></I>
 </p>
