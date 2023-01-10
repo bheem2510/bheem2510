@@ -81,9 +81,9 @@ I made this project just for fun 😊, it allows you to create nice and simple G
 <br>
 <img  alt="git"  src="https://img.shields.io/badge/GIT-%23E34F26.svg?style=for-the-badge&logo=git&logoColor=white"/>
 <img  alt="Github"  src="https://img.shields.io/badge/github-%23000000.svg?style=for-the-badge&logo=github&logoColor=white"/>
-<img  alt="Canva"  src="https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white"/>
+<!-- <img  alt="Canva"  src="https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white"/> -->
  <br>
-<img  alt="Figma"  src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white"/>
+<!-- <img  alt="Figma"  src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white"/> -->
 </p>
  
  ---
