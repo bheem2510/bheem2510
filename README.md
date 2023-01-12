@@ -86,6 +86,7 @@ I made this project just for fun 😊, it allows you to create nice and simple G
 <!-- <img  alt="Figma"  src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white"/> -->
 </p>
  
+ 
  ---
  
  ### 🛠 &nbsp;Learning 📝 Tools and Platforms
